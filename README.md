@@ -76,11 +76,14 @@ A aplicação é buildada e containerizada.
 Os manifests Kubernetes são aplicados no cluster.
 
 👩‍💻 Autor
+
 Beatriz Moraes Franco
+
 DevOps | Cloud | Kubernetes | CI/CD
 
 💼 LinkedIn
 https://linkedin.com/in/beatriz-franco
+
 
 
 
