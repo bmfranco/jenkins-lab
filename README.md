@@ -45,9 +45,9 @@ Pipeline automatiza:
 - Deploy automatizado no cluster
 
 ---
-```
-# 📂 Estrutura do projeto
 
+# 📂 Estrutura do projeto
+```
 jenkins-lab
 │
 ├── Jenkinsfile
@@ -81,5 +81,6 @@ DevOps | Cloud | Kubernetes | CI/CD
 
 💼 LinkedIn
 https://linkedin.com/in/beatriz-franco
+
 
 
