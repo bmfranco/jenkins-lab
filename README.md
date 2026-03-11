@@ -45,8 +45,9 @@ Pipeline automatiza:
 - Deploy automatizado no cluster
 
 ---
+```
+## 📂 Estrutura do projeto
 
-# 📂 Estrutura do projeto
 jenkins-lab
 │
 ├── Jenkinsfile
@@ -57,7 +58,7 @@ jenkins-lab
 ├── app/
 │ └── código da aplicação
 └── README.md
-
+```
 # ⚙️ Pipeline CI/CD
 
 O pipeline Jenkins executa as seguintes etapas:
@@ -80,3 +81,4 @@ DevOps | Cloud | Kubernetes | CI/CD
 
 💼 LinkedIn
 https://linkedin.com/in/beatriz-franco
+
