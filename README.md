@@ -46,7 +46,7 @@ Pipeline automatiza:
 
 ---
 ```
-## 📂 Estrutura do projeto
+# 📂 Estrutura do projeto
 
 jenkins-lab
 │
@@ -81,4 +81,5 @@ DevOps | Cloud | Kubernetes | CI/CD
 
 💼 LinkedIn
 https://linkedin.com/in/beatriz-franco
+
 
